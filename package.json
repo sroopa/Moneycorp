@@ -1,0 +1,17 @@
+{
+  "name": "moneycorp",
+  "version": "1.0.0",
+  "description": "Moneycorp Test suit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roopa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1",
+    "cypress-slow-down": "^1.2.1"
+  
+  }
+  
+}
